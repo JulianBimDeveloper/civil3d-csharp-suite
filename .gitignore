@@ -1,0 +1,22 @@
+## Build Outputs
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio Cache and Settings
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Other IDEs
+.idea/
+.vscode/
+
+## MSBuild and temporary files
+*.suo
+*.user
+*.aps
+*.pdb
+*.log
+*.cache
